@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import MachineElement from "./components/machine";
-import { Machine } from "./lib/machine";
+import { Machine } from "./lib/machine1";
 import { calculatePercentage } from "./lib/utils";
 import { Progress } from "@/components/ui/progress";
 import Ranking from "./Ranking";

@@ -1,4 +1,4 @@
-import { Machine } from "@/lib/machine";
+import { Machine } from "@/lib/machine1";
 
 function MachineElement(props: {
   machine: Machine;
