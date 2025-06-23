@@ -7,11 +7,79 @@
     },
     {
       "name": "Sorcery",
+      "difficulty": "insane"
+    },
+    {
+      "name": "TombWatcher",
       "difficulty": "medium"
+    },
+    {
+      "name": "Certificate",
+      "difficulty": "hard"
     },
     {
       "name": "Fluffy",
       "difficulty": "easy"
+    },
+    {
+      "name": "Puppy",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Planning",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Environment",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Eureka",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Scepter",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Nocturnal",
+      "difficulty": "easy"
+    },
+    {
+      "name": "WhiteRabbit",
+      "difficulty": "insane"
+    },
+    {
+      "name": "Haze",
+      "difficulty": "hard"
+    },
+    {
+      "name": "Code",
+      "difficulty": "easy"
+    },
+    {
+      "name": "TheFrizz",
+      "difficulty": "medium"
+    },
+    {
+      "name": "Dog",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Cypher",
+      "difficulty": "medium"
+    },
+    {
+      "name": "DarkCorp",
+      "difficulty": "insane"
+    },
+    {
+      "name": "Cat",
+      "difficulty": "medium"
+    },
+    {
+      "name": "University",
+      "difficulty": "insane"
     }
   ]
 }
