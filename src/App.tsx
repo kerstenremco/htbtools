@@ -41,7 +41,7 @@ function App() {
   const percentage = calculatePercentage(
     data.filter((m) => m.rootOwned).length,
     data.filter((m) => m.userOwned).length,
-    6,
+    data.length,
     activeChallengeOwns,
     166
   );
