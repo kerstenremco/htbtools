@@ -1,0 +1,17 @@
+{
+  "title": "Active machines",
+  "items": [
+    {
+      "name": "Artificial",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Sorcery",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Fluffy",
+      "difficulty": "easy"
+    }
+  ]
+}
